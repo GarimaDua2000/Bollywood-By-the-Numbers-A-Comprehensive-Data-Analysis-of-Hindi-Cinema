@@ -1,6 +1,13 @@
 # Data-Analysis-of-Bollywood-Movies-in-Excel
 
 
+Performed Data Analysis onto a set of Bollywood movies using Microsoft Excel.The dataset was downloaded from Kaggle.The database has also been attached.Through this project answered  questions like;
 
+1) Number of Movies Produced each Year
+2) Represent Number of Movies Produced each Year through Graph
+3) Most Voted Movies and Least Voted Movies
+4) Most Rated Movies and Least Rated Movies
+5) Display Movies Directed by Karan Johar
+6) NUMBER OF MOVIES OF EACH GENRE AND ALSO REPRESENT THROUGH GRAPH
 
-Performed Data Analysis onto a set of Bollywood movies.The dataset was downloaded from Kaggle.The database has been attached.
+   
