@@ -1,7 +1,7 @@
 # Data-Analysis-of-Bollywood-Movies-in-Excel
 
 
-Performed Data Analysis onto a set of Bollywood movies using Microsoft Excel.The dataset was downloaded from Kaggle.The database has also been attached.Through this project answered  questions like;
+Performed Data Analysis onto a set of Bollywood movies using Microsoft Excel.The dataset was downloaded from Kaggle.The dataset has also been attached.Through this project answered  questions like;
 
 1) Number of Movies Produced each Year
 2) Represent Number of Movies Produced each Year through Graph
