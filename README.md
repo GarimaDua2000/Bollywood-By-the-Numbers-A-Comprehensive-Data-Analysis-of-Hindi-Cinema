@@ -8,6 +8,6 @@ Performed Data Analysis onto a set of Bollywood movies using Microsoft Excel.The
 3) Most Voted Movies and Least Voted Movies
 4) Most Rated Movies and Least Rated Movies
 5) Display Movies Directed by Karan Johar
-6) NUMBER OF MOVIES OF EACH GENRE AND ALSO REPRESENT THROUGH GRAPH
+6) Number of movies of each Genre and also represent through a Graph
 
    
